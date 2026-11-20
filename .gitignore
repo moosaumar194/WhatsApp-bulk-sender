@@ -1,0 +1,9 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+*.csv
+test.txt
+numbers.txt
+sent_*.log
+photo.*
+voice.*
