@@ -115,4 +115,4 @@ Never commit these files to a public repository. They are already listed in `.gi
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [Apache2.0 License](LICENSE).
